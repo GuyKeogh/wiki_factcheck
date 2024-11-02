@@ -1,0 +1,13 @@
+nltk==3.9.1
+requests==2.32.3
+beautifulsoup4==4.12.3
+wikitextparser==0.56.3
+waitress==3.0.1
+flask==3.0.3
+flask_session==0.8.0
+isort==5.13.2
+black==24.10.0
+flake8==7.1.1
+pytest==8.3.3
+mypy==1.13.0
+setuptools==75.3.0

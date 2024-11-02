@@ -5,3 +5,5 @@
 __pycache__
 flask_session
 venv
+*.egg-info
+build
